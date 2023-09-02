@@ -1,3 +1,3 @@
-var={10,'naveen',10.2}
+var={10,'naveen'}
 print(type(var))
 print(var)
